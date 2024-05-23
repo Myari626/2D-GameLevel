@@ -1,0 +1,5 @@
+string0*Keanu:'I'm purr-fect!'
+string1*Keanu:'You’ve got to be kitten me, where is my food?!'
+string2*Keanu:'I need to take a paws, I'm exhausted.'
+string3*Keanu:'I feel like scratching the couch today.'
+string4*Keanu:'I need to take a nap, I only got 10 hours of sleep.'
